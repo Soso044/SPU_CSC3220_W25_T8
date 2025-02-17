@@ -1,3 +1,4 @@
+```sql
 --- Insert Test Data
 
 -- Insert Artists First
