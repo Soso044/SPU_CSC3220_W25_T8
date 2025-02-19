@@ -43,7 +43,7 @@ STRICT;
 
 -- Table: Similar
 CREATE TABLE Similar (
-    song1Id INTEGER PRIMARY KEY AUTOINCREMENT
+    song1Id INTEGER PRIMARY KEY,
                     REFERENCES Song (songId),
     song2Id INTEGER REFERENCES Song (songId) 
 )
