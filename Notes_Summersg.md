@@ -7,4 +7,4 @@ Persona:
 ![alt image](https://github.com/Soso044/SPU_CSC3220_W25_T8/blob/Gerry's/Mike%20Louis.jpg?raw=true)
 <hr>
 Mood Board:
-![Mood Board](https://github.com/Soso044/SPU_CSC3220_W25_T8/blob/Gerry%27s/Mood%20Board.jpg?raw=true)
+![Mood Board](Mood Board.jpg)
